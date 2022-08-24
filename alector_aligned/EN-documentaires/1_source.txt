@@ -1,0 +1,17 @@
+Satellites are spacecraft sent into space.
+They receive and then broadcast TV programs, weather data, or they take pictures of our planet.
+If all the satellites broke down, we wouldn't have the weather!
+In addition, images sent from other continents via TV would no longer arrive live.
+We'd only see late matches.
+But we'd keep the internet, and it wouldn't stop!
+In fact, 80% of the information on the Net flows through cables or fiber optics buried in the ground or at the bottom of the oceans.
+We could still listen to the radio that's aired.
+Satellites connect humans.
+The GPS system uses 30 satellites to cover our land.
+So the plane uses its GPS to locate itself.
+They also give our position on the road.
+The GPS of the car gives its position by calculating the time taken by the signals of 4 satellites to reach it.
+They're also monitoring the crops.
+The harvester records its position and the amount of grain harvested every 2 seconds.
+The farmer then knows the places where it grows the least and where he will have to add the fertilizer.
+The earth is surrounded by a fog of satellites. There are more than 2500 satellites operating around the earth.
